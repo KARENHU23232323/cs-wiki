@@ -3,4 +3,4 @@
 
 # Programming Languages
 
-- [[./Programming Languages/C/C|C]]
+- [C](./Programming%20Languages/C/C.md)
