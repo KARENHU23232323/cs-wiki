@@ -1,4 +1,4 @@
->[!Info]
+>[!NOTE]
 >Before reading, we encourage you to familiarise yourself with the Markdown syntax.
 >- [Obsidian markdown basic formatting syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 >- [Obsidian markdown advanced formatting syntax](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)
@@ -53,6 +53,6 @@ Use proper markup options for different purposes in wiki content.
 
 ---
 
-Back to Parent Node: [README](./README.md)
+Back to Parent Node: [[./README|README]]
 
 Tags: #ADMIN #README

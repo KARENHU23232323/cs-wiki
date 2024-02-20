@@ -6,10 +6,10 @@ C is strongly associated with UNIX, as it was developed to write the UNIX operat
 
 # Get Started
 
-- [Basic Syntax of C](./Basic%20Syntax%20of%20C.md)
+- [[./Basic Syntax of C|Basic Syntax of C]]
 
 ---
 
-Back to Parent Node: [Dispatch](../../Dispatch.md)
+Back to Parent Node: [[../../Dispatch|Dispatch]]
 
 Tags: #C #programming_languages

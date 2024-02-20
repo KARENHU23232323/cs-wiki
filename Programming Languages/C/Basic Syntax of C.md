@@ -1,6 +1,6 @@
 
 ---
 
-Back to Parent Node: [C](./C.md)
+Back to Parent Node: [[./C|C]]
 
 Tags: #C #COMP2017
