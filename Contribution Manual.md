@@ -1,7 +1,3 @@
----
-share: true
----
-
 >[!info] Markdown Syntax
 >Before reading, we encourage you to familiarise yourself with the Markdown syntax.
 >- [Obsidian markdown basic formatting syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)

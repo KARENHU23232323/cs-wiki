@@ -1,7 +1,3 @@
----
-share: true
----
-
 Hi there! To help you as a first time contributor, this page has important information about how to setup everything and make your first Pull Request. Follow along this page to find out the details.
 
 # Guide to Obsidian

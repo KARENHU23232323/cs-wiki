@@ -1,8 +1,3 @@
----
-share: true
----
-
-
 # Computer Science Wiki
 
 >[!warning]
