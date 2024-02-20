@@ -15,7 +15,8 @@ If you don't have time to go through every detail, it is recommended you underst
 
 # Setup Your Local Vault
 
->[!Caution] Caution: it is expected that you understand the Git workflow.
+>[!Info]
+>It is expected that you understand the Git workflow.
 
 1. **Fork the vault**  
     To contribute your bit, you will fork the vault from our wiki's [GitHub repository](https://github.com/kkkkang-a/cs-wiki) and clone it to your local device.
@@ -39,8 +40,6 @@ Follow theses steps to submit your changes.
 
 ---
 
->[!info]
->Back to Parent Node: [guidelines](./Contribution%20Manual.md)
+Back to Parent Node: [guidelines](./Contribution%20Manual.md)
 
->[!info]
->Tags: #ADMIN #README
+Tags: #ADMIN #README

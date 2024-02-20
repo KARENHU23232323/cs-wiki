@@ -1,8 +1,6 @@
 
 ---
 
->[!info]
->Back to Parent Node: [C](./C.md)
+Back to Parent Node: [C](./C.md)
 
->[!info]
->Tags: #C #COMP2017
+Tags: #C #COMP2017
