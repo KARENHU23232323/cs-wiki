@@ -57,6 +57,6 @@ Use proper markup options for different purposes in wiki content.
 
 ---
 
->[!info] Back to Parent Node: [[./README|README]]
+>[!info] Back to Parent Node: [README](./README.md)
 
 >[!info] Tags: #ADMIN #README
