@@ -39,6 +39,8 @@ Follow theses steps to submit your changes.
 
 ---
 
->[!info] Back to Parent Node: [guidelines](./Contribution%20Manual.md)
+>[!info]
+>Back to Parent Node: [guidelines](./Contribution%20Manual.md)
 
->[!info] Tags: #ADMIN #README
+>[!info]
+>Tags: #ADMIN #README
