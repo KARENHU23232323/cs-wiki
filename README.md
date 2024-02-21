@@ -13,8 +13,6 @@ Obsidian users can enable graph view from the left sidebar by clicking _Open gr
 
 # Contribute to the Wiki
 
-Contributors from all levels are welcome, please find the [contribution manual](./Contribution%20Manual.md) for more information on contribution guidelines.
+Contributors from all levels are welcome, please find the [contribution manual](./-%20Administration/Contribution%20Manual.md) for more information on contribution guidelines.
 
 If you are a first time contributor, [ this guide](First%20Time%20Contributor.md) is to help you get ready for your very first contribution. This page includes all you need to setup the software, download our vault, and submit your contributions
-
-

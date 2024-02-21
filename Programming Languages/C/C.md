@@ -10,6 +10,6 @@ C is strongly associated with UNIX, as it was developed to write the UNIX operat
 
 ---
 
-Back to Parent Node: [Dispatch](../../Dispatch.md)
+Parent Node: [Dispatch](../../Dispatch.md)
 
 Tags: #C #programming_languages
