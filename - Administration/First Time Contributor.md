@@ -34,12 +34,12 @@ Follow theses steps to submit your changes.
 2. **Open a new Pull Request (PR)**  
     When you have completed a full commitment or made a progress, create a pull request on GitHub. If there is no other notice, you can choose to merge your updates into the `main`branch. Meanwhile, please write a brief message regarding the update in the PR. 
 3. **Review changes**  
-    Carefully review your changes, check for anomalies and make sure your updates align with [ guidelines](Contribution%20Manual.md).
+    Carefully review your changes, check for anomalies and make sure your updates align with [ guidelines](../Contribution%2520Manual.md#).
 4. **Create PR and await approval**  
     Click the "Create pull request" button and your contribution will soon be reviewed by the wiki maintainers. Once your contribution passes the review, it will be reflected in our wiki main branch as well as the Obsidian publish website.
 
 ---
 
-Parent Node: [guidelines](./Contribution%20Manual.md)
+Parent Node: [guidelines](./Contribution%2520Manual.md#)
 
 Tags: N/A

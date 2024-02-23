@@ -21,6 +21,6 @@ Return value:
 
 ---
 
-Parent Node: [Algorithms](./Algorithms.md)
+Parent Node: [Algorithms](./Algorithms.md#)
 
 Tags: #COMP2123 #algorithms

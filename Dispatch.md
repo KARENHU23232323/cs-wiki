@@ -1,9 +1,9 @@
 # Programming Languages
 
-- [C](./Programming%20Languages/C/C.md)
-- [Java](./Programming%20Languages/Java/Java.md)
+- [C](./Programming%2520Languages/C/C.md#)
+- [Java](./Programming%2520Languages/Java/Java.md#)
 
 # Data Structures and Algorithms
 
-- [Data Structures](./Data%20Structures%20and%20Algorithms/Data%20Structures.md)
-- [Algorithms](./Data%20Structures%20and%20Algorithms/Algorithms.md)
+- [Data Structures](./Data%2520Structures%2520and%2520Algorithms/Data%2520Structures.md#)
+- [Algorithms](./Data%2520Structures%2520and%2520Algorithms/Algorithms.md#)

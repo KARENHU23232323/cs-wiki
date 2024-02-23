@@ -22,6 +22,6 @@ When we say $T(n) = \Theta(f(n))$, we mean that the growth rate of $T(n)$ matche
 
 ---
 
-Parent Node: [Algorithms](./Algorithms.md)
+Parent Node: [Algorithms](./Algorithms.md#)
 
 Tags: #COMP2123 #algorithms #discrete-math #MATH1064 

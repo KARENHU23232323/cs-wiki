@@ -53,6 +53,6 @@ Use proper markup options for different purposes in wiki content.
 
 ---
 
-Back to Parent Node: [README](./README.md)
+Back to Parent Node: [README](./README.md#)
 
 Tags: #ADMIN #README

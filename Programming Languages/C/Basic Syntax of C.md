@@ -1,6 +1,6 @@
 
 ---
 
-Parent Node: [C](./C.md)
+Parent Node: [C](./C.md#)
 
 Tags: #C #COMP2017
