@@ -2,6 +2,6 @@ Data structure is a format for storing, managing and working with or structuring
 
 ---
 
-Parent Node: [Dispatch](../Dispatch.md#)
+Parent Node: [Dispatch](../Dispatch.md)
 
 Tags: #COMP2123 #data_structures

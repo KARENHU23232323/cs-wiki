@@ -1,6 +1,6 @@
 Algorithms are sets of instructions used to solve a problem.
 
-To represent an algorithm in code, [Pseudocode](./Pseudocode.md#) is used.
+To represent an algorithm in code, [Pseudocode](./Pseudocode.md) is used.
 
 # Analysis of Algorithms
 
@@ -16,10 +16,10 @@ different algorithms. It bounds the algorithm’s worst-case performance.
 
 An algorithm is efficient if it runs in polynomial time.
 
-- [Asymptotic Growth Analysis](./Asymptotic%2520Growth%2520Analysis.md#)
+- [Asymptotic Growth Analysis](./Asymptotic%20Growth%20Analysis.md)
 
 ---
 
-Parent Node: [Dispatch](../Dispatch.md#)
+Parent Node: [Dispatch](../Dispatch.md)
 
 Tags: #COMP2123 #algorithms 
